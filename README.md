@@ -3,6 +3,17 @@
 A Power BI dashboard project analyzing Amazon product sales, pricing strategies, discount effectiveness, and customer engagement trends. The report provides actionable insights to support data-driven business decisions related to product performance, pricing optimization, and category growth.
 
 ---
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Business Problem](#-business-problem)
+- [Dashboard Preview](#-dashboard-preview)
+- [Dataset Information](#-dataset-information)
+- [Key Findings](#-key-findings)
+- [Recommendations](#-recommendations)
+- [Technical Skills Demonstrated](#️-technical-skills-demonstrated)
+
+---
 
 ## 📌 Project Overview
 
